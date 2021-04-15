@@ -1,0 +1,6 @@
+C:\Users\RaulM\source\repos\win32API\win32API\obj\Release\win32API.csprojAssemblyReference.cache
+C:\Users\RaulM\source\repos\win32API\win32API\bin\Release\win32API.exe
+C:\Users\RaulM\source\repos\win32API\win32API\bin\Release\win32API.pdb
+C:\Users\RaulM\source\repos\win32API\win32API\obj\Release\win32API.exe
+C:\Users\RaulM\source\repos\win32API\win32API\obj\Release\win32API.pdb
+C:\Users\RaulM\source\repos\win32API\win32API\obj\Release\win32API.csproj.CoreCompileInputs.cache
